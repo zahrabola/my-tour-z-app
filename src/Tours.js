@@ -5,7 +5,7 @@ import Tour from "./Tour";
    return (
      <section>
        <div className="Title">
-         <h2>OurTours</h2>
+         <h2>Our Tours</h2>
          <div className="underline"></div>
        </div>
        <div>

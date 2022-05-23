@@ -79,7 +79,15 @@ main {
   color: hsl(360, 67%, 44%);
   letter-spacing: 0.1rem;
   background: transparent;
-  border: 1px solid hsl(360, 67%, 44%);
+  border-radius:  0.25rem;
   padding: 0.25rem 0.5rem;
   border-radius:  0.25rem;
+}
+.btn {
+  color:  hsl(205, 78%, 60%);
+  background: hsl(205, 100%, 96%);
+  padding: 0.25rem 0.5rem;
+  border-radius:  0.25rem;
+  border: none;
+  padding: 10px;
 }
